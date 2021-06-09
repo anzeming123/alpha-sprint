@@ -38,6 +38,17 @@
       </view>
     </view>
   </view> 
+<!-- 第五页 -->
+<!--
+    <view class="section section04 {{scrollindex==3?'active':''}}" style='background-image:url({{photo[0].bg_3}})'> 
+      <view class='cont'>
+        <view class='cont-body'>
+          <view></view>
+        </view>
+      </view>
+    </view>
+  </view> 
+ -->
 </view> 
 
 
