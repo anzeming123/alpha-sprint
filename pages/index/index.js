@@ -136,6 +136,9 @@ Page({
       })
     }
     // 更新
+    /**
+   * 获取输入框中输入的值
+   */
     if(this.data.inputValue != this.data.stuNo){
       console.log("update")
       wx.cloud.callFunction({
