@@ -54,6 +54,7 @@
 <!-- 自定义弹窗 -->
 <!-- =============================================== -->
 
+<!-- 自定义弹窗: 学号绑定-->
 <!-- 自定义弹窗: 个人信息 -->
 <view class="modal-mask" bindtap="hideModal" catchtouchmove="true" wx:if="{{showStuInfo}}"></view>
 <view class="modal-dialog userinfo-modal-dialog" wx:if="{{showStuInfo}}">
